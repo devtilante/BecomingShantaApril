@@ -1,0 +1,75 @@
+/vendor
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/public/banner_image
+/public/recognition_gallery
+/public/testimonial_image
+/public/tour_menu_image
+/public/tour-destination
+/public/tour-theme
+/public/tour-hotel-groups
+/public/tour-festivals
+/public/package-image
+/storage/*.key
+/storage/logs
+/storage/framework/cache
+/storage/framework/sessions
+/storage/framework/views
+/storage/framework/testing
+/bootstrap/cache/*.php  # Compiled files
+
+# Environment Files
+.env
+.env.*.backup
+.env.backup
+.env.production
+
+# PHPUnit
+.phpunit.cache
+.phpunit.result.cache
+
+# Homestead
+Homestead.json
+Homestead.yaml
+
+# Composer
+auth.json
+
+# Node
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Laravel Sail/Docker
+.docker
+docker-compose.override.yml
+
+# Laravel Vapor
+.vapor
+
+# Laravel Forge
+forge-deploy.sh
+
+# Laravel Octane
+octane.yaml
+
+# Laravel Fleet
+/.fleet
+
+# IDEs & Editors
+/.idea
+/.vscode
+*.sublime-project
+*.sublime-workspace
+
+# Mac & Windows System Files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+*.bak
+*.tmp
+*.swp
