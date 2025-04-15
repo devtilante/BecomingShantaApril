@@ -1,17 +1,17 @@
 /vendor
 /node_modules
-/public/build
-/public/hot
-/public/storage
-/public/banner_image
-/public/recognition_gallery
-/public/testimonial_image
-/public/tour_menu_image
-/public/tour-destination
-/public/tour-theme
-/public/tour-hotel-groups
-/public/tour-festivals
-/public/package-image
+# /public/build
+# /public/hot
+# /public/storage
+# /public/banner_image
+# /public/recognition_gallery
+# /public/testimonial_image
+# /public/tour_menu_image
+# /public/tour-destination
+# /public/tour-theme
+# /public/tour-hotel-groups
+# /public/tour-festivals
+# /public/package-image
 /storage/*.key
 /storage/logs
 /storage/framework/cache
